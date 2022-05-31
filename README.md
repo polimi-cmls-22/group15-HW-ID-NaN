@@ -1,6 +1,6 @@
 
 
-#NaH
+# NaH
 
 Not an Harp is our take on an acoustic harp.
 
@@ -9,7 +9,7 @@ NaH doesn't have any strings, so forget about spending money on strings and wast
 
 ![](./gitImages/cms.png)
 
-Basically it's a midi instrument, so you can use it in your daw of choice and load any virtual instrument you like. But remember it's an harp so it shuold sound like one (just kidding).
+Basically it's a midi instrument, so you can use it in your daw of choice and load any virtual instrument you like. But remember it's an harp so it should sound like one (just kidding).
 
 It has 7 lasers, or string if you prefer, so it goes from C to B.
 It has an integrated pitch bend control.
