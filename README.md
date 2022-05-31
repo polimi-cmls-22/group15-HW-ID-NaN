@@ -1,9 +1,11 @@
-![](./gitImages/DistorColorLabel.png)
+
 
 Not an Harp is our take on an acoustic harp.
 
 NaH is a music computer system based on a regular harp. 
 NaH doesn't have any strings, so forget about spending money on strings and wasting time to change them: now the strings are lasers. 
+
+![](./gitImages/cms.png)
 
 Basically it's a midi instrument, so you can use it in your daw of choice and load any virtual instrument you like. But remember it's an harp so it shuold sound like one (just kidding).
 
@@ -18,7 +20,7 @@ You can control the speed of the tremolo with the palm of your hand, through a s
 
 If you want some visual feedback just run the ".pde" file to visualize the strings and the related effects. 
 
-
+![](./gitImages/processing.png)
 
 Guide: 
 
